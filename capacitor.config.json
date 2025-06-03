@@ -1,6 +1,6 @@
 {
   "appId": "com.yourname.clarityledger",
   "appName": "ClarityLedger",
-  "webDir": "www",
+  "webDir": "www/dist",
   "bundledWebRuntime": false
 }
