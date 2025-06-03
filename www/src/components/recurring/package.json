@@ -1,0 +1,6 @@
+{
+  "name": "recurring-components",
+  "version": "1.0.0",
+  "main": "RecurringTransactionList.tsx",
+  "private": true
+}

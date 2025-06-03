@@ -1,0 +1,8 @@
+{
+  "name": "ClarityLedger",
+  "description": "A simple and elegant personal finance manager (ClarityLedger) to track your income and expenses, with AI-powered financial tips. User data is stored locally in the browser.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
